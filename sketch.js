@@ -3,7 +3,7 @@ function setup() {
   background(220, 220, 220); 
   let centerX = width / 2; 
   let centerY = height / 2; 
-  let numCircles = 8; 
+  let numCircles = 60; 
   let ringSpacing = 100; 
   for (let r = 1; r <= 5; r++) { 
     for (let i = 0; i < numCircles; i++) { 
